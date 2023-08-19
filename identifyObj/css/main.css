@@ -1,0 +1,21 @@
+body {
+    width: 80vw;
+    margin: auto;
+}
+
+.hidden {
+    display:none;
+}
+
+.liveView {
+    position: relative;
+}
+
+.objectBtn {
+    /* position:absolute; */
+    position: relative;
+    background-color:aquamarine;    
+    border: 1px dashed #fff;
+    opacity: 0.2;
+    z-index: 1;
+}
